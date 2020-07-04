@@ -15,3 +15,7 @@
 - Большие данные: https://fpmi.mipt.ru/master/bigdata
 
 ### Вышка
+
+- ЛК: https://priem7.hse.ru/magabit.html
+- Расписание: https://ma.hse.ru/ma_rasp2020_stat
+- НОД: https://www.hse.ru/ma/datasci/
